@@ -22,9 +22,9 @@ Because of that split, PhBingo has to stay readable for users and manageable for
 Project Link
 -----------
 
-When a page needs to point users to account entry, use the live destination directly and keep the wording plain: [PhBingo login](https://phbingo-login.ph/)
+When a page needs to point users to account entry, use the live destination directly and keep the wording plain: [PhBingo APK](https://phbingo-login.ph/)
 
-That kind of link should be used only when the page genuinely needs it. If every article points to the same destination, the site starts feeling mechanical and less useful.
+That kind of link should be used only when the APK genuinely needs it. If every article points to the same destination, the site starts feeling mechanical and less useful.
 
 Purpose
 -----------------------
@@ -33,7 +33,7 @@ Most user journeys are short.
 
 A person lands on a page from search, social, or a saved browser tab. They skim the article, decide whether it answers their question, and either continue reading or move to the next relevant page. In many cases, that next step is account access. For that reason, references to PhBingo login need to stay accurate and easy to understand.
 
-Some users also arrive looking for installation or mobile access details. When that happens, pages mentioning PhBingo APK should be written carefully. They should explain what the page is for, what device context it applies to, and what the user should check before assuming something is broken.
+Some users also arrive looking for installation or mobile access details. When that happens, pages mentioning "PhBingo APK" should be written carefully. They should explain what the page is for, what device context it applies to, and what the user should check before assuming something is broken.
 
 This sounds simple, but it shapes the whole content model. Pages on a site like this should help people move forward with as little friction as possible.
 
@@ -75,10 +75,6 @@ This usually comes from pasted formatting, oversized embeds, or headings that lo
 ### Users say they cannot find the right access page
 
 Review the wording before assuming the path is broken. If the page talks around the action instead of naming it clearly, people get lost faster than expected.
-
-### App-related pages feel incomplete
-
-If a page mentions PhBingo APK but does not explain device context, platform limitation, or expected next steps, users are left to guess. Those pages need tighter scope than general blog posts.
 
 Closing note
 ------------
