@@ -4,18 +4,18 @@ PhBingo Documentation
 What this site does
 -------------------
 
-PhBingo is a mobile and desktop site that supports the content side of the product. It works as a blog and reference layer around the main platform, giving users a place to read updates, browse help-oriented articles, and find the right next step when they need account access or platform guidance.
+PhBingo is a mobile and desktop site that supports the content side of this online platform. It works as a blog and reference layer around the main platform, giving users a place to read updates, browse help-oriented articles, and find the right next step when they need account access or platform guidance.
 
-The site is not meant to replace the product itself. Its role is narrower and more practical: publish content reliably, keep navigation clear, and make routine updates easy for the team managing it.
+The site is not meant to replace the platform itself. Its role is narrower and more practical: publish content reliably, keep navigation clear, and make routine updates easy for the team managing it.
 
-Product context
+Platform Context
 ---------------
 
 A site like this usually serves two audiences at once.
 
 The first is the visitor who lands on an article and wants a quick answer. They may be looking for current platform information, an access page, or a simple explanation that helps them continue what they were already doing.
 
-The second is the internal team maintaining the site. That includes editors publishing blog content, admins reviewing page behavior, and whoever is responsible for keeping the content flow aligned with the main product.
+The second is the internal team maintaining the site. That includes editors publishing blog content, admins reviewing page behavior, and whoever is responsible for keeping the content flow aligned with the main platform.
 
 Because of that split, PhBingo has to stay readable for users and manageable for operators.
 
